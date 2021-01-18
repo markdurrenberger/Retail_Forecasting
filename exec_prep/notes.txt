@@ -1,0 +1,54 @@
+- everything in this is from the REPEAT sales data
+	Date: 01/23/2015 > 09/30/2020
+
+Questions:
+2)
+- top 15 customers by total sales during this period
+(are there any that are head and shoulders above the rest?)
+	clear #1, followed by a group of 3, and a drop off to the rest
+
+	Total sales: 12,919,911
+
+	What % of total sales did the top 1 account for? 
+		Top sales: 1,129,461.85
+			%: 8.7%
+
+	" " but for top 4?
+		Top4 sales: 3,492,509.652
+			 %: 27%
+
+	" " but for top 15?
+		Top15 sales: 6,477,592.132
+			 %: 50%
+
+--------------------
+3) 6 Box: start with this one
+
+
+ - num of different customers per year: see plot
+
+- put all 5 years on same plot: used $10k and $30k for cutoffs: see numbers in notebook - create a table from that
+--------------------
+
+4) Groupings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
